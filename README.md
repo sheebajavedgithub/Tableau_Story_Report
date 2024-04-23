@@ -14,12 +14,20 @@ A potential correlation between high discounts and profit loss is observed in th
 Visuals:
 
 AVG Discount by Region and Category: Analyzes average discounts applied within each region and product category.
+
 Profit by Region and Category: Visualizes profits across regions and categories.
+
 Dashboard 7: Custom title for a specific dashboard (replace with the actual title).
+
 Dashboard: Profit by Discount (2): Provides two different perspectives on profit in relation to discounts.
+
 All Customers with respect to sale: Explores sales trends across all customers.
+
 Profit Ratio by Discount: Examines the impact of discounts on profit margins.
+
 Profit by Discount: Delves deeper into the profit-discount relationship.
+
+
 Potential Applications:
 
 Businesses can leverage these dashboards to:
